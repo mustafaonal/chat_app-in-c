@@ -1,0 +1,2 @@
+# chat_app-in-c
+2016510082-Mustafa Çağatay Önal gcc 2016510082_server.c -o server -lpthread &amp;&amp; gcc 2016510082_client.c -o client -lpthread yaparak çalışıyor ./client ı çalıştırınca eğer istenilen işlemleri yapamıyorsanız tekrar çalıştırınız ./client dosyasında nickname yazarken imleç aynı satırda değil ise client dosyasını kapatıp yeniden açınca çalışıyor, yada imleç aynı satırda belirene kadar tekrar client dosyasını çalıştırının günlerce hatanın sebebimi aradım ama bulamadım
